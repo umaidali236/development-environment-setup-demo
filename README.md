@@ -26,3 +26,30 @@ Git is a distributed version control system that helps track changes in source c
 2. Download the installer for your operating system.
 3. Run the installer and follow the on-screen instructions to complete the installation.
 4. Open a terminal or command prompt and verify that Git is installed by running the following command:
+
+## Step 3: Install GitHub Desktop
+
+GitHub Desktop provides an easy-to-use interface for interacting with GitHub repositories. Follow these steps to install it:
+
+1. Visit the [GitHub Desktop website](https://desktop.github.com/).
+2. Download the installer for your operating system.
+3. Run the installer and follow the on-screen instructions to complete the installation.
+4. Launch GitHub Desktop and sign in with your GitHub account.
+
+## Step 4: Configure Git in Visual Studio Code
+
+Now that you have Git installed, you need to configure it in Visual Studio Code:
+
+1. Open Visual Studio Code.
+2. Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (macOS) to open the command palette.
+3. Type "Git: Clone" and press Enter.
+4. Enter the URL of the GitHub repository you want to clone.
+5. Choose a directory on your local machine where you want to save the repository.
+6. Open the cloned repository in Visual Studio Code.
+
+## Step 5: Start Coding!
+
+You're all set up and ready to start coding! You can use Visual Studio Code to write and edit your code, Git to track changes, and GitHub Desktop to manage your repositories on GitHub.
+
+Happy coding!
+
