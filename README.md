@@ -51,5 +51,5 @@ Now that you have Git installed, you need to configure it in Visual Studio Code:
 
 You're all set up and ready to start coding! You can use Visual Studio Code to write and edit your code, Git to track changes, and GitHub Desktop to manage your repositories on GitHub.
 
-Happy coding!
+
 
