@@ -87,7 +87,13 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 9. In the Integrations section, select VS Code as External Editor.
   ![github-desktop](/documentation/images/github-desktop/githubd-integrations.jpg)
   
+## Step 4 : Connecting GitHub with VSCode
 
+1. Go to the source code tab from the left sidebar. You should see a 'Clone Repository' or 'Publish to GitHub' (if you have opened a folder already) option. Click on the Clone Repository and give it a GitHub repo link or click on 'Clone from GitHub'.
+2. It will then show you a message that asks you to sign in to GitHub.
+3. Click on Allow button and it will open a browser tab with a GitHub login page.
+4. You should see a message like this and click Open.It should take a couple of seconds and you should be signed into your GitHub account.
+5. How do you know you are logged into GitHub with VS Code?click on the Profile icon at the bottom left corner to see if it says you are logged in to your GitHub account.
 
 ## Extensions for VS Code
 
