@@ -44,7 +44,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 1. ESLint
 
-- Extension id :  ```md dbaeumer.vscode-eslint ```
+- Extension id :  ` dbaeumer.vscode-eslint `
 
 - Enter the extension id or ESLint in the Extensions search box
 
@@ -54,7 +54,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 2. Markdownlint
 
-- Extension id : davidanson.vscode-markdownlint
+- Extension id :  ` davidanson.vscode-markdownlint`
 
 - Enter the extension id or Markdownlint in the Extensions search box
 
@@ -64,7 +64,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 3. Github Pull requests
 
-- Extension id : github.vscode-pull-request-github
+- Extension id :  `github.vscode-pull-request-github`
 
 - Enter the extension id or Github Pull requests in the Extensions search box
 
@@ -74,7 +74,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 4. Live Preview
 
-- Extension id : ms-vscode.live-server
+- Extension id :  `ms-vscode.live-server`
 
 - Enter the extension id or Live Preview in the Extensions search box
 
@@ -84,7 +84,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 5. Prettier - Code formatter
 
-- Extension id : ms-vscode.live-server
+- Extension id :  `ms-vscode.live-server`
 
 - Enter the extension id or Prettier - Code formatter in the Extensions search box
 
@@ -94,7 +94,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 6. JavaScript and TypeScript Nightly
 
-- Extension id : ms-vscode.vscode-typescript-next
+- Extension id :  `ms-vscode.vscode-typescript-next`
 
 - Enter the extension id or JavaScript and TypeScript Nightly in the Extensions search box
 
