@@ -21,6 +21,12 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 2. Download the installer for your operating system (Windows, macOS, or Linux).
  ![vs-code](/documentation/images/vs-code.png)
 3. Run the installer and follow the on-screen instructions to complete the installation.
+4. First, accept the License Agreement, then click Next.
+5. Choose the location for installation and click Next.
+6. Accept the default Start Menu folder name by clicking Next.
+7. Check the boxes for 'Creating a desktop icon', and adding VS Code to the Right-Click menu functionality of Windows File Explorer, then click Next.
+8. Confirm the installation options, then click Install.
+9. Click Finish to exit the installation and (by default) launch Visual Studio Code.
 
 ## Step 2: Install Git
 
@@ -28,7 +34,7 @@ Git is a distributed version control system that helps track changes in source c
 
 1. Visit the [Git website](https://git-scm.com/).
 2. Download the installer for your operating system.
- ![git-for-windows](/documentation/images/git-win.jpg)
+ ![git-for-windows](/documentation/images/git-win.png)
 3. Run the installer and follow the on-screen instructions to complete the installation.
 4. In the component selection screen, leave the defaults unless you need to change them and click Next.
  ![git-for-windows](/documentation/images/git/git-components.jpg)
