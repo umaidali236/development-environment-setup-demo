@@ -16,7 +16,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 1. Visit the [Visual Studio Code website](https://code.visualstudio.com/).
 2. Download the installer for your operating system (Windows, macOS, or Linux).
-3. ![vs-code](../documentation/images/vs-code.png)
+3. ![vs-code](/documentation/images/vs-code.png)
 4. Run the installer and follow the on-screen instructions to complete the installation.
 
 ## Step 2: Install Git
