@@ -75,17 +75,17 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
  ![github-desktop](/documentation/images/github-desktop.png)
 3. Run the installer and follow the on-screen instructions to complete the installation.
 4. Launch GitHub Desktop and click on sign in to GitHub account.
-  ![github-desktop](/documentation/images/github desktop/githubd-signin.jpg)
+  ![github-desktop](/documentation/images/github-desktop/githubd-signin.jpg)
 5. It will take you to the GitHub page and ask for your login credentials.
-  ![github-desktop](/documentation/images/github desktop/githubd-signin1.jpg)
+  ![github-desktop](/documentation/images/github-desktop/githubd-signin1.jpg)
 6. After successfully signing in , click on open GitHub desktop.
-  ![github-desktop](/documentation/images/github desktop/githubd-prompt.jpg)
+  ![github-desktop](/documentation/images/github-desktop/githubd-prompt.jpg)
 7. Then select Use my GitHub account name and email address and click on finish.
-  ![github-desktop](/documentation/images/github desktop/githubd-configure.jpg)
+  ![github-desktop](/documentation/images/github-desktop/githubd-configure.jpg)
 8. Then under the File tab click on Options. 
-  ![github-desktop](/documentation/images/github desktop/githubd-options.jpg)
+  ![github-desktop](/documentation/images/github-desktop/githubd-options.jpg)
 9. In the Integrations section, select VS Code as External Editor.
-  ![github-desktop](/documentation/images/github desktop/githubd-integrations.jpg)
+  ![github-desktop](/documentation/images/github-desktop/githubd-integrations.jpg)
   
 
 
