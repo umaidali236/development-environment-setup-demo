@@ -25,7 +25,7 @@ Git is a distributed version control system that helps track changes in source c
 1. Visit the [Git website](https://git-scm.com/).
 2. Download the installer for your operating system.
 3. Run the installer and follow the on-screen instructions to complete the installation.
-4. Open a terminal or command prompt and verify that Git is installed by running the following command: git --version
+4. Open a terminal or command prompt and verify that Git is installed by running the following command: `git --version`
 
 ## Step 3: Install GitHub Desktop
 
