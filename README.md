@@ -52,7 +52,7 @@ Git is a distributed version control system that helps track changes in source c
  ![git-for-windows](/documentation/images/git/git-credential.jpg)
 14. The next step lets you decide which extra options to enable.
  ![git-for-windows](/documentation/images/git/git-extra.jpg)
-15. Depending on which Git version you are installing, it may offer to install experimental features. For the most stable operation, do not install experimental features and click Install.
+15. For the most stable operation, do not install experimental features and click Install.
  ![git-for-windows](/documentation/images/git/git-experimental.jpg)
 16. Once the installation is complete, tick the boxes to view the Release Notes or launch Git Bash if you want to start using Git right away, and click Finish.
  ![git-for-windows](/documentation/images/git/git-finish.jpg)
