@@ -38,7 +38,8 @@ Git is a distributed version control system that helps track changes in source c
  ![git-for-windows](/documentation/images/git/git-branch-name.jpg)
 7. The next step allows you to change the PATH environment. The PATH is the default set of directories included when you run a command from the command line. Keep the middle (recommended) selection and click Next.
  ![git-for-windows](/documentation/images/git/git-path-environment.jpg)
-8. The installer prompts you to select the SSH client for Git to use. Git already comes with its own SSH client, so if you don't need a specific one, leave the default option and click Next.
+8. The installer prompts you to select the SSH client for Git to use. Git already comes with its own SSH client, so if you don't need a specific one, leave the 
+   default option and click Next.
  ![git-for-windows](/documentation/images/git/git-ssh.jpg)
 9. The next option relates to server certificates. The default option is recommended for most users.
  ![git-for-windows](/documentation/images/git/git-ssl.jpg)
