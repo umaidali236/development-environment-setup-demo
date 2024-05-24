@@ -50,7 +50,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
   - Click on install
 
-![eslint](/documentation/images/tooling/es-lint.png)
+![eslint](/documentation/images/es-lint.png)
 
 ### 2. Markdownlint
 
@@ -60,7 +60,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
   - Click on install
 
-![markdownlint](/documentation/images/tooling/markdownlint.png)
+![markdownlint](/documentation/images/markdownlint.png)
 
 ### 3. Github Pull requests
 
@@ -70,7 +70,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
   - Click on install
 
-![github-pr](/documentation/images/tooling/github-pr.png)
+![github-pr](/documentation/images/github-pr.png)
 
 ### 4. Live Preview
 
@@ -80,7 +80,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
   - Click on install
 
-![live-preview](/documentation/images/tooling/live-preview.png)
+![live-preview](/documentation/images/live-preview.png)
 
 ### 5. Prettier - Code formatter
 
@@ -90,7 +90,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
   - Click on install
 
-![prettier](/documentation/images/tooling/prettier.png)
+![prettier](/documentation/images/prettier.png)
 
 ### 6. JavaScript and TypeScript Nightly
 
@@ -100,7 +100,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
   - Click on install
 
-![typescript](/documentation/images/tooling/typescript.png)
+![typescript](/documentation/images/typescript.png)
 
 ## Productivity tips
 
