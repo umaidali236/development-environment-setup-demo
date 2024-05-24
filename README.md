@@ -2,8 +2,8 @@
 
 This guide will walk you through setting up your software development environment using Visual Studio Code, Git, and GitHub Desktop.
 
-## Prerequisite
-- A GitHub account.
+## Prerequisites
+   - A GitHub account.
  
 ## What are we doing today?
 
