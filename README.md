@@ -171,6 +171,6 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 - ! : basic html structure
 - div.container : div element with class='container'
 - div#name : div element with id='name'
-- div*5 : 5 div elements
+- div*5 : 5 div elements.
 
 
