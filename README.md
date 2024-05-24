@@ -44,61 +44,61 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 1. ESLint
 
-- Extension id - dbaeumer.vscode-eslint
+- Extension id : dbaeumer.vscode-eslint
 
-  - Enter the extension id in the Extensions search box
+- Enter the extension id or ESLint in the Extensions search box
 
-  - Click on install
+- Click on install
 
 ![eslint](/documentation/images/es-lint.png)
 
 ### 2. Markdownlint
 
-- Extension id - davidanson.vscode-markdownlint
+- Extension id : davidanson.vscode-markdownlint
 
-  - Enter the extension id in the Extensions search box
+- Enter the extension id or Markdownlint in the Extensions search box
 
-  - Click on install
+- Click on install
 
 ![markdownlint](/documentation/images/markdownlint.png)
 
 ### 3. Github Pull requests
 
-- Extension id - github.vscode-pull-request-github
+- Extension id : github.vscode-pull-request-github
 
-  - Enter the extension id in the Extensions search box
+- Enter the extension id or Github Pull requests in the Extensions search box
 
-  - Click on install
+- Click on install
 
 ![github-pr](/documentation/images/github-pr.png)
 
 ### 4. Live Preview
 
-- Extension id - ms-vscode.live-server
+- Extension id : ms-vscode.live-server
 
-  - Enter the extension id in the Extensions search box
+- Enter the extension id or Live Preview in the Extensions search box
 
-  - Click on install
+- Click on install
 
 ![live-preview](/documentation/images/live-preview.png)
 
 ### 5. Prettier - Code formatter
 
-- Extension id - ms-vscode.live-server
+- Extension id : ms-vscode.live-server
 
-  - Enter the extension id in the Extensions search box
+- Enter the extension id or Prettier - Code formatter in the Extensions search box
 
-  - Click on install
+- Click on install
 
 ![prettier](/documentation/images/prettier.png)
 
 ### 6. JavaScript and TypeScript Nightly
 
-- Extension id - ms-vscode.vscode-typescript-next
+- Extension id : ms-vscode.vscode-typescript-next
 
-  - Enter the extension id in the Extensions search box
+- Enter the extension id or JavaScript and TypeScript Nightly in the Extensions search box
 
-  - Click on install
+- Click on install
 
 ![typescript](/documentation/images/typescript.png)
 
