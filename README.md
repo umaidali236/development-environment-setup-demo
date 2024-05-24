@@ -40,4 +40,88 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 4. Launch GitHub Desktop and sign in with your GitHub account.
 
 
+## Extensions for VS Code
+
+### 1. ESLint
+
+- Extension id - dbaeumer.vscode-eslint
+
+  - Enter the extension id in the Extensions search box
+
+  - Click on install
+
+![eslint](/documentation/images/tooling/es-lint.png)
+
+### 2. Markdownlint
+
+- Extension id - davidanson.vscode-markdownlint
+
+  - Enter the extension id in the Extensions search box
+
+  - Click on install
+
+![markdownlint](/documentation/images/tooling/markdownlint.png)
+
+### 3. Github Pull requests
+
+- Extension id - github.vscode-pull-request-github
+
+  - Enter the extension id in the Extensions search box
+
+  - Click on install
+
+![github-pr](/documentation/images/tooling/github-pr.png)
+
+### 4. Live Preview
+
+- Extension id - ms-vscode.live-server
+
+  - Enter the extension id in the Extensions search box
+
+  - Click on install
+
+![live-preview](/documentation/images/tooling/live-preview.png)
+
+### 5. Prettier - Code formatter
+
+- Extension id - ms-vscode.live-server
+
+  - Enter the extension id in the Extensions search box
+
+  - Click on install
+
+![prettier](/documentation/images/tooling/prettier.png)
+
+### 6. JavaScript and TypeScript Nightly
+
+- Extension id - ms-vscode.vscode-typescript-next
+
+  - Enter the extension id in the Extensions search box
+
+  - Click on install
+
+![typescript](/documentation/images/tooling/typescript.png)
+
+## Productivity tips
+
+### VS Code
+
+- Shift + alt + F : format
+- Ctrl + S : save
+- Ctrl + R : refresh
+- Ctrl + T : new tab
+- Ctrl + / : comment
+- Ctrl + right arrow/ left arrow : jump one word to right or left
+- Ctrl + Shift + right arrow/ left arrow : select word
+- Alt + up arrow/ down arrow : shifts line up or down
+- End : jumps to end of line
+- Home : jumps to start of line
+
+### Emmet tools
+
+- ! : basic html structure
+- div.container : div element with class='container'
+- div#name : div element with id='name'
+- div*5 : 5 div elements
+
 
