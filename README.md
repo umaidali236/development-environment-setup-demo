@@ -30,18 +30,31 @@ Git is a distributed version control system that helps track changes in source c
 2. Download the installer for your operating system.
  ![git-for-windows](/documentation/images/git-win.jpg)
 3. Run the installer and follow the on-screen instructions to complete the installation.
+4. In the component selection screen, leave the defaults unless you need to change them and click Next.
  ![git-for-windows](/documentation/images/git/git-components.jpg)
+5. Select a text editor you want to use with Git. Use the drop-down menu to select `visual studio code` and click Next.
  ![git-for-windows](/documentation/images/git/git-text-editor.jpg)
+6. The next step allows you to choose a different name for your initial branch. The default is master.
  ![git-for-windows](/documentation/images/git/git-branch-name.jpg)
+7. The next step allows you to change the PATH environment. The PATH is the default set of directories included when you run a command from the command line. Keep the middle (recommended) selection and click Next.
  ![git-for-windows](/documentation/images/git/git-path-environment.jpg)
+8. The installer prompts you to select the SSH client for Git to use. Git already comes with its own SSH client, so if you don't need a specific one, leave the default option and click Next.
  ![git-for-windows](/documentation/images/git/git-ssh.jpg)
+9. The next option relates to server certificates. The default option is recommended for most users.
  ![git-for-windows](/documentation/images/git/git-ssl.jpg)
+10. The following selection configures line-ending conversion, which relates to the way data is formatted. The default selection is recommended for Windows. Click Next to proceed.
  ![git-for-windows](/documentation/images/git/git-line-ending.jpg)
+11. Choose the terminal emulator you want to use. The default MinTTY is recommended for its features. Click Next to continue.
  ![git-for-windows](/documentation/images/git/git-terminal.jpg)
+12. The next step allows you to choose what the git pull command will do. The default option is recommended. Click Next to continue.
  ![git-for-windows](/documentation/images/git/git-gitpull.jpg)
+13. The next step is to choose which credential helper to use. Git uses credential helpers to fetch or save credentials. The default option is the most stable one. Select your preferred credential manager and click Next.
  ![git-for-windows](/documentation/images/git/git-credential.jpg)
+14. The next step lets you decide which extra options to enable.
  ![git-for-windows](/documentation/images/git/git-extra.jpg)
+15. Depending on which Git version you are installing, it may offer to install experimental features. For the most stable operation, do not install experimental features and click Install.
  ![git-for-windows](/documentation/images/git/git-experimental.jpg)
+16. Once the installation is complete, tick the boxes to view the Release Notes or launch Git Bash if you want to start using Git right away, and click Finish.
  ![git-for-windows](/documentation/images/git/git-finish.jpg)
    
 
