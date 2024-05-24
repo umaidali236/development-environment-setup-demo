@@ -44,7 +44,7 @@ GitHub Desktop provides an easy-to-use interface for interacting with GitHub rep
 
 ### 1. ESLint
 
-- Extension id :  `dbaeumer.vscode-eslint`
+- Extension id :  `txt dbaeumer.vscode-eslint`
 
 - Enter the extension id or ESLint in the Extensions search box
 
