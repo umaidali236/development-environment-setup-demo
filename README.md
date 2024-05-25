@@ -15,7 +15,8 @@ This guide will walk you through setting up your software development environmen
 
 ## Step 1: Install Visual Studio Code
 
-Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop. Follow these steps to install it:
+- **VS Code (Visual Studio Code):** It's a lightweight but powerful source code editor developed by Microsoft. It's highly extensible through plugins and supports a variety of programming languages and development workflows. VS Code includes features like syntax highlighting, debugging capabilities, code completion, and version control integration.
+Follow these steps to install it:
 
 1. Visit the [Visual Studio Code website](https://code.visualstudio.com/).
 2. Download the installer for your operating system (Windows, macOS, or Linux).
