@@ -22,9 +22,12 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
  ![vs-code](/documentation/images/vs-code.png)
 3. Run the installer and follow the on-screen instructions to complete the installation.
 4. First, accept the License Agreement, then click Next.
+  ![vs-code](/documentation/images/vs-code/vs-code.jpg)
 5. Choose the location for installation and click Next.
+ ![vs-code](/documentation/images/vs-code/vs-code1.jpg)
 6. Accept the default Start Menu folder name by clicking Next.
 7. Check the boxes for 'Creating a desktop icon', and adding VS Code to the Right-Click menu functionality of Windows File Explorer, then click Next.
+ ![vs-code](/documentation/images/vs-code/vs-code2.jpg)
 8. Confirm the installation options, then click Install.
 9. Click Finish to exit the installation and (by default) launch Visual Studio Code.
 
