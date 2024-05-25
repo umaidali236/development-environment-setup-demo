@@ -181,11 +181,6 @@ GitHub Desktop is a graphical user interface (GUI) application designed to simpl
 - End : jumps to end of line
 - Home : jumps to start of line
 
-### Emmet tools
 
-- ! : basic html structure
-- div.container : div element with class='container'
-- div#name : div element with id='name'
-- div*5 : 5 div elements.
 
 
