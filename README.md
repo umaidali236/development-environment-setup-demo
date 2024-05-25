@@ -5,7 +5,7 @@ This guide will walk you through setting up your software development environmen
 ## Prerequisites
    - A GitHub account.
  
-## What are we doing today?
+## Objectives :
 
 **Installing and configuring the following software tools :**
 
