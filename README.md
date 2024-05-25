@@ -34,7 +34,7 @@ Follow these steps to install it:
 
 ## Step 2: Install Git
 
-Git is a distributed version control system that helps track changes in source code during software development. Here's how to install Git:
+Git is a free and open-source version control system that helps track changes in source code during software development. Here's how to install Git:
 
 1. Visit the [Git website](https://git-scm.com/).
 2. Download the installer for your operating system.
@@ -72,7 +72,7 @@ Git is a distributed version control system that helps track changes in source c
 
 ## Step 3: Install GitHub Desktop
 
-GitHub Desktop provides an easy-to-use interface for interacting with GitHub repositories. Follow these steps to install it:
+GitHub Desktop is a graphical user interface (GUI) application designed to simplify the use of Git and GitHub for version control.It provides an easy-to-use interface for interacting with GitHub repositories. Follow these steps to install it:
 
 1. Visit the [GitHub Desktop website](https://desktop.github.com/).
 2. Download the installer for your operating system.
