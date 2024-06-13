@@ -1,6 +1,6 @@
 # Development Environment Setup
 
-This guide will walk you through setting up your software development environment using Visual Studio Code, Git, and GitHub Desktop.
+This guide will walk you through setting up your software development environment using Visual Studio Code, Git, and GitHub Desktop. 
 
 ## Prerequisites
    - A GitHub account.
