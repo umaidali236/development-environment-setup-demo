@@ -180,7 +180,3 @@ GitHub Desktop is a graphical user interface (GUI) application designed to simpl
 - Alt + up arrow/ down arrow : shifts line up or down
 - End : jumps to end of line
 - Home : jumps to start of line
-
-
-
-
